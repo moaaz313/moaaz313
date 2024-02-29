@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Moaaz Ahmed . I'm a Flutter Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. increasingly. </h4>
+<h4> I'm Moaaz Ahmed . I'm a Flutter Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. </h4>
 
 
 	
@@ -32,7 +32,8 @@
 
  ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moazahmed393@gmail.com)](mailto:moazahmed393@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/amr-elsayed74](http://www.linkedin.com/in/moaaz-ahmed-a0a060265)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)]([https://www.linkedin.com/in/amr-elsayed74](http://www.linkedin.com/in/moaaz-ahmed-a0a060265)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](http://www.linkedin.com/in/moaaz-ahmed-a0a060265?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01141494859)
 
 <!-- ### 🔗Contact Me
