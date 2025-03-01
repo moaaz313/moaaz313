@@ -14,45 +14,71 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 
 ## 🔥 GitHub & Codeforces Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)  ![Codeforces Profile](https://codeforces-readme-stats.vercel.app/api/card?username=moazahmed313)
 
+### 📊 GitHub 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moaaz313&show_icons=true&" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz313&" width="400px"/>
+</p>
 
----
+### 📊 Codeforces 
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=moazahmed313"/>
+</p>
+
 
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge) 
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) 
-![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Tech Stack" />
+</p>
 
 ### 🌐 Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge) 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Backend & Cloud" />
+</p>
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python" alt="Programming Languages" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+</p>
 
 ### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="DevOps & Tools" />
+</p>
 
 ---
-
 ## 📄 My CV
-[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?logo=google-drive&logoColor=white&style=for-the-badge)](YOUR_CV_LINK)
+<p align="left">
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/Download_CV-4285F4?logo=google-drive&logoColor=white&style=for-the-badge" alt="Download CV" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/moazahmed313)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201141494859)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:moazahmed393@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/moazahmed313">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" />
+  </a>
+  <a href="https://wa.me/201141494859">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
+  </a>
+  <a href="mailto:moazahmed393@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
 ---
 
