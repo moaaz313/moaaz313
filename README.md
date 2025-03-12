@@ -29,30 +29,10 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,cpp,python,mysql,git,github" alt="Tech Stack" />
 </p>
 
-### 🌐 Backend & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Backend & Cloud" />
-</p>
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt="Programming Languages" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="DevOps & Tools" />
-</p>
 
 ---
 ## 📄 My CV
