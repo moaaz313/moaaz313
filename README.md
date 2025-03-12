@@ -41,7 +41,7 @@ I'm a **passionate software engineer** specializing in **mobile application deve
     <img src="https://img.shields.io/badge/Download_CV-4285F4?logo=google-drive&logoColor=white&style=for-the-badge" alt="Download CV" />
   </a>
 </p>
----
+
 
 ## 📫 Connect with Me
 <p align="left">
