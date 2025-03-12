@@ -66,7 +66,7 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/moaaz-ahmed-a0a060265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://codeforces.com/profile/moazahmed313">
