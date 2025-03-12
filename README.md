@@ -18,7 +18,7 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 ### 📊 GitHub 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moaaz313&show_icons=true&" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz313&" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz313 &" width="400px"/>
 </p>
 
 ### 📊 Codeforces 
