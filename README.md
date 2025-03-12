@@ -30,7 +30,33 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,cpp,python,mysql,git,github" alt="Tech Stack" />
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 </p>
 
 
