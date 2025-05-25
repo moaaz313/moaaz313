@@ -14,16 +14,24 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 
 ## 🔥 GitHub & Codeforces Stats
 
-
-### 📊 GitHub 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaaz313&show_icons=true&" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz313&" width="400px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=moaaz313&column=7&margin-w=10&rank=AA,AB,A,B,C" />
 </p>
 
-### 📊 Codeforces 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moaaz313&show_icons=true&hide_border=true" width="420px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz313&hide_border=true" width="420px"/>
+</p>
+
+---
+
+### 🧠 Codeforces Stats
 <p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=moazahmed313"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=moazahmed313" />
 </p>
 
 
