@@ -71,7 +71,7 @@ I'm a **passionate software engineer** specializing in **mobile application deve
 ---
 ## 📄 My CV
 <p align="left">
-  <a href="https://drive.google.com/file/d/1tsA6ntIgfxWMkvDhMghjo8gmP841f6pd/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1TuHrUaZ4OzeCXfCNtAnnEnBrcnQaNvOI/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download_CV-4285F4?logo=google-drive&logoColor=white&style=for-the-badge" alt="Download CV" />
   </a>
 </p>
